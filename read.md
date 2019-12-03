@@ -1,2 +1,2 @@
-helloworld=abcd
+helloworld=你好
 
