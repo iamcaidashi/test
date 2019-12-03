@@ -1,4 +1,3 @@
-你好=nihao
-谁=who
-我=I
+Git is a distributed version control system.
+Git is free software.
 
