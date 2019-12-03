@@ -1,4 +1,4 @@
-hi你好=helloworld
+你好=hello
 谁=who
 
 
